@@ -1,0 +1,326 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "year": 2010,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+      "description": "A skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible."
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+      "id": 5,
+      "title": "The Matrix",
+      "genre": "Action",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+    },
+    {
+      "id": 6,
+      "title": "Parasite",
+      "genre": "Thriller",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "description": "All unemployed, Ki-taek and his family take peculiar interest in the wealthy Park family, leading them to formulate an unexpected inter-connected plan."
+    },
+    {
+      "id": 7,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75."
+    },
+    {
+      "id": 9,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+      "id": 10,
+      "title": "Fight Club",
+      "genre": "Drama",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more."
+    },
+    {
+      "id": 11,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQm6N3QI4FwsxVluKl.jpg",
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+    },
+    {
+      "id": 12,
+      "title": "Avengers: Endgame",
+      "genre": "Action",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "description": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more to reverse Thanos' actions."
+    },
+    {
+      "id": 13,
+      "title": "Spirited Away",
+      "genre": "Animation",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits."
+    },
+    {
+      "id": 14,
+      "title": "The Lion King",
+      "genre": "Animation",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w500/bKPtXn9n4M4s8vvZrbw40nYzJ.jpg",
+      "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+    },
+    {
+      "id": 15,
+      "title": "Gladiator",
+      "genre": "Action",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    },
+    {
+      "id": 16,
+      "title": "The Prestige",
+      "genre": "Thriller",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w500/5MXyQfz8xUP3dIFPTubhTsbFY6N.jpg",
+      "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other."
+    },
+    {
+      "id": 17,
+      "title": "Whiplash",
+      "genre": "Drama",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w500/7fn624j5i3r8mekWkxN1H7dM7V9.jpg",
+      "description": "A promising young drummer enrolls at a cut-throat music conservatory where he dreams of greatness under a ruthless instructor."
+    },
+    {
+      "id": 18,
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "description": "Paul Atreides leads a rebellion to restore his family's reign over the desert planet Arrakis while grappling with his destiny."
+    },
+    {
+      "id": 19,
+      "title": "The Grand Budapest Hotel",
+      "genre": "Comedy",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w500/nX5XotM9yprCKarRH4fzOq1VM1J.jpg",
+      "description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge."
+    },
+    {
+      "id": 20,
+      "title": "Blade Runner 2049",
+      "genre": "Sci-Fi",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWj5FlNHafqR3sZ.jpg",
+      "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years."
+    },
+    {
+      "id": 21,
+      "title": "John Wick",
+      "genre": "Action",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w500/fZPSd91lGEa1sUnCrke8amTc6s1.jpg",
+      "description": "An ex-hit-man comes out of retirement to track down the gangsters that took everything from him."
+    },
+    {
+      "id": 22,
+      "title": "Mad Max: Fury Road",
+      "genre": "Action",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w500/hA2ple9q4M4s8fZ8qJ8qJ8qJ8.jpg",
+      "description": "In a post-apocalyptic wasteland, Max teams up with a mysterious woman, Furiosa, to escape from a tyrannical warlord."
+    },
+    {
+      "id": 23,
+      "title": "The Revenant",
+      "genre": "Adventure",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w500/9GBhzXMFjgcZ3FdR9w3bUmmPog9.jpg",
+      "description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+    },
+    {
+      "id": 24,
+      "title": "La La Land",
+      "genre": "Musical",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+    },
+    {
+      "id": 25,
+      "title": "Get Out",
+      "genre": "Horror",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "description": "A young African-American visits his white girlfriend's parents for the weekend, where his uneasiness about their reception of him eventually reaches a boiling point."
+    },
+    {
+      "id": 26,
+      "title": "Joker",
+      "genre": "Thriller",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8kgsxV82u2ZasO5.jpg",
+      "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City."
+    },
+    {
+      "id": 27,
+      "title": "1917",
+      "genre": "War",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "description": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap."
+    },
+    {
+      "id": 28,
+      "title": "The Social Network",
+      "genre": "Drama",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w500/n0ybibh2t5Mn4nq1q5nDg3x3X3X.jpg",
+      "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea."
+    },
+    {
+      "id": 29,
+      "title": "Black Panther",
+      "genre": "Action",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past."
+    },
+    {
+      "id": 30,
+      "title": "The Shape of Water",
+      "genre": "Fantasy",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w500/k4FwHlMhuRR5BISY2Gm2QZHlH5Q.jpg",
+      "description": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity."
+    },
+    {
+      "id": 31,
+      "title": "Arrival",
+      "genre": "Sci-Fi",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w500/hLudzvGfyi6iwWGmiqGZqo9FxS.jpg",
+      "description": "When twelve mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors."
+    },
+    {
+      "id": 32,
+      "title": "Moonlight",
+      "genre": "Drama",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w500/qAwFbszz0kRyTuXmMeKQZCX3Q2O.jpg",
+      "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood."
+    },
+    {
+      "id": 33,
+      "title": "The Wolf of Wall Street",
+      "genre": "Comedy",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w500/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+      "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+    },
+    {
+      "id": 34,
+      "title": "Gravity",
+      "genre": "Sci-Fi",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w500/uPxtxhB2Fy9ihVqtBtNGHmknJqV.jpg",
+      "description": "Dr. Ryan Stone, an engineer on her first time on a space mission, and Matt Kowalski, an astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking."
+    },
+    {
+      "id": 35,
+      "title": "The Departed",
+      "genre": "Crime",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQme7XxYHhHq1kU.jpg",
+      "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+    },
+    {
+      "id": 36,
+      "title": "No Country for Old Men",
+      "genre": "Thriller",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w500/nBZorepJ3ft2mdf3V88nF6M5ZBV.jpg",
+      "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+    },
+    {
+      "id": 37,
+      "title": "The Big Short",
+      "genre": "Comedy",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w500/p11Ftd4VposrAzthkhF53if6RlD.jpg",
+      "description": "In 2006-2007 a group of investors bet against the US mortgage market. In their research, they discover how flawed and corrupt the market is."
+    },
+    {
+      "id": 38,
+      "title": "Django Unchained",
+      "genre": "Western",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkW4D0i.jpg",
+      "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
+    },
+    {
+      "id": 39,
+      "title": "The Avengers",
+      "genre": "Action",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "description": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury assembles a team of the world's most legendary superheroes."
+    },
+    {
+      "id": 40,
+      "title": "Toy Story 3",
+      "genre": "Animation",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w500/AbC7xq6V4xXxq6V4xXxq6V4xX.jpg",
+      "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned."
+    }
+  ],
+  "users": [],
+  "favorites": [] 
+}
