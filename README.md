@@ -128,5 +128,5 @@ Configuration file for customizing Tailwind CSS (colors, themes, screens, etc.).
 Configuration for Vite, handling bundling, plugins, and development server settings.
 
 **README.md**  
-Documentation file that explains the project.
+Documentation file that explains the project in detail.
 
